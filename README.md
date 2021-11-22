@@ -1,0 +1,2 @@
+# afkkick
+Kick AFK players
